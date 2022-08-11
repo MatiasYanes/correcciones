@@ -44,11 +44,23 @@ display: flex;
 justify-content: space-between;
 align-items: center;
 }
-    
+
+.navbar-expand-lg .navbar-collapse{
+justify-content: space-between;
+}
+
+
+.contenedor{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
 .menu {
-background-color: #E65D4E;
-border: solid #851717 1px;
+color: #ffffff;   
 text-align: center;
+margin-bottom: 0rem;
 font-family: 'Albert Sans';
 display: flex;
 flex-direction: row;
